@@ -16,7 +16,6 @@ My current research is focused on building **generalist multi-modal agent**. Our
 **If you are interested in working with me, please feel free to drop me an email through taewhan7725 at gmail dot com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
-**\[09/2024\]** Three papers accepted to [NeurIPS 2024](https://neurips.cc/)!<br/>
 **\[12/2024\]** [ViPCap](https://arxiv.org/abs/2412.19289) is accepted by [AAAI 2025](https://aaai.org/) <br/>
 **\[09/2024\]** [IFCap](https://arxiv.org/abs/2409.18046) is accepted by [EMNLP 2024](https://2024.emnlp.org/) <br/>
 
