@@ -102,7 +102,7 @@ table, td, th, tr {
 <table cellspacing="0" cellpadding="0">
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/VipCap_teaser.jpg" height="100%" width="100%" style="border-style: none">
+  <img src="/images/VipCap_teaser.jpg" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>ViPCap: Retrieval Text-Based Visual Prompts for Lightweight Image Captioning.</h3>
@@ -118,7 +118,7 @@ table, td, th, tr {
 </tr>    
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
-  <img src="../images/ifcap_teaser.png" height="100%" width="100%" style="border-style: none">
+  <img src="/images/ifcap_teaser.png" height="100%" width="100%" style="border-style: none">
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning.</h3>
