@@ -13,7 +13,7 @@ Hi! I am a Visual prompt researcher in Vision & Language models. Prior to joinin
 
 My current research is focused on building **generalist multi-modal agent**. Our team are the first few in this line of research, and have produced a series of works, including (a) bridging core vision tasks with language: [UniCL](https://arxiv.org/abs/2204.03610), [RegionCLIP](https://arxiv.org/abs/2112.09106), [GLIP](https://arxiv.org/abs/2112.03857), [KLITE](https://arxiv.org/abs/2204.09222), foundation model [Florence](https://arxiv.org/abs/2111.11432); (b) developing generalist decoder [X-Decoder](https://x-decoder-vl.github.io/), and (c) enabling more promptable, grounding and interactive systems like [SEEM](https://github.com/UX-Decoder/Segment-Everything-Everywhere-All-At-Once), [Semantic-SAM](https://github.com/UX-Decoder/Semantic-SAM), [LLaVa](https://github.com/haotian-liu/LLaVA), [SoM Prompting for GPT-4V](https://som-gpt4v.github.io/), and [Phi-3-Vision](https://arxiv.org/pdf/2404.14219). I believe, further pushing forward, we can achieve performant yet interpretable, grounded and robust multi-modality intelligent agents.
 
-**If you are interested in working with me, please feel free to drop me an email through taewhan7725@gmail.com.**
+**If you are interested in working with me, please feel free to drop me an email through [taewhan7725@gmail.com](taewhan7725@gmail.com).**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
 **\[12/2024\]** [ViPCap](https://arxiv.org/abs/2412.19289) is accepted by [AAAI 2025](https://aaai.org/) <br/>
