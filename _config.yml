@@ -34,13 +34,13 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=mxp3PE0AAAAJ&hl"
   impactstory      : # URL
-  semantic         : # URL
+  semantic         : "asdf" # URL
   pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
+  bitbucket        : "asdf" # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
   github           : "https://github.com/taewhankim"
@@ -51,12 +51,12 @@ author:
   bluesky          : # Username "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
-  foursquare       : # Username
-  goodreads        : # Username
-  google_plus      : # Username
-  keybase          : # Username
+  foursquare       : "asdf" # Username
+  goodreads        : "asdf" # Username
+  google_plus      : "asdf" # Username
+  keybase          : "asdf" # Username
   instagram        : # Username
-  lastfm           : # Username
+  lastfm           : "asdf" # Username
   linkedin         : "https://www.linkedin.com/in/taewhan7725/" # Username
   mastodon         : # URL
   medium           : # URL
