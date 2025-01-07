@@ -16,6 +16,7 @@ Hi! I am a Visual prompt researcher in Vision & Language models. Prior to joinin
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
 **\[12/2024\]** [ViPCap](https://arxiv.org/abs/2412.19289) is accepted by [AAAI 2025](https://aaai.org/) <br/>
 **\[09/2024\]** [IFCap](https://arxiv.org/abs/2409.18046) is accepted by [EMNLP 2024](https://2024.emnlp.org/) <br/>
+**\[03/2022\]** [Is college students’ trajectory associated with academic performance?](https://www.sciencedirect.com/science/article/abs/pii/S0360131521002748) is accepted by [Computers & Education](https://www.sciencedirect.com/journal/computers-and-education) <br/>
 
 <style>
 table, td, th, tr {
