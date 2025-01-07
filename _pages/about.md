@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a Visual prompt researcher in Vision & Language models. Prior to joining Microsoft at March 2020, I earned my Ph.D. in Computer Science from School of Interactive Computing at [Georgia Tech](https://www.gatech.edu) with thesis "[**Structured Visual Understanding, Generation and Reasoning**](https://repository.gatech.edu/entities/publication/93299669-0326-445a-adbb-b6050cd2eec9)". I was fortunate to be supervised by [Prof. Devi Parikh](https://cc.gatech.edu/~parikh/) and work closely with [Prof. Dhruv Batra](https://www.cc.gatech.edu/~dbatra/).
-<!-- My research interests span in computer vision, vision & language and machine learning. More specifically, my primary researches are about structured visual understanding at different levels and how to further leverage them for intelligent interactions with human through language and environment through embodiment. I believe, by integrating fine-grained structured information, we can achieve better yet interpretable, grounded and robust multi-modality intelligent agents. -->
+Hi! I am a Visual prompt researcher in Vision & Language models. I earned my M.S. in Artificial Intelligence from [Hanyang University](https://www.hanyang.ac.kr). I was fortunate to be supervised by [Prof. Dong-Jin Kim](https://sites.google.com/site/djkimcv).
+My research interests span computer vision, vision & language, generative models and machine learning. More specifically, my primary research is about structured visual prompt tailored to various domains and explores methods to bridge modality gaps using these prompts. My work expect integrating fine-grained and structured representations to generate more effective, interpretable, and robust prompts that align effortlessly with multi-modal applications.
 
 **If you are interested in working with me, please feel free to drop me an email through taewhan7725@gmail.com.**
 
