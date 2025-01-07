@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a visual prompt tuning researcher for vision & language models and generative models. I earned my M.S. in Artificial Intelligence from [Hanyang University](https://www.hanyang.ac.kr). I was fortunate to be supervised by [Prof. Dong-Jin Kim](https://sites.google.com/site/djkimcv).<br/>
 
-My research interests span in computer vision, vision & language, generative models and machine learning. More specifically, my primary research is about structured visual prompt tailored to various domains and further explores methods to bridge modality gaps using these prompts. My work expect integrating fine-grained and structured representations to generate more effective, interpretable, and robust prompts that align harmoniously with multi-modal applications.
+My research interests span in computer vision, vision & language, generative models and machine learning. More specifically, my primary research is about structured visual prompt tailored to various domains and further explores methods to bridge modality gaps using these prompts. My work expect integrating fine-grained and structured representations to generate more effective, interpretable, and robust prompts that align seamless with multi-modal applications.
 
 **If you are interested in working with me, please feel free to drop me an email through taewhan7725@gmail.com.**
 
