@@ -107,7 +107,7 @@ table, td, th, tr {
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle">  
   <h3>IFCap: Image-like Retrieval and Frequency-based Entity Filtering for Zero-shot Captioning.</h3>
-  Soeun Lee, Si-Woo Kim, <b>Taewhan Kim</b>, Dong-Jin Kim.
+  Soeun Lee*, Si-Woo Kim*, <b>Taewhan Kim</b>, Dong-Jin Kim.
   <br>
   <em>EMNLP</em>, 2024
   <br>
