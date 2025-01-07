@@ -24,7 +24,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Taewhan Kim"
   pronouns         : # example: "she/her"  
-  bio              : "VLMs researcher"
+  bio              : "Visual prompt researcher"
   location         : "Seoul, Korea"
   employer         : "Hanyang University"
   uri              : # URL
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
+  semantic         : "https://drive.google.com/file/d/1V1dvWNMKygJZAjplIHTu79BsZsPlhOlr/view" # URL
   googlescholar    : "https://scholar.google.com/citations?user=mxp3PE0AAAAJ&hl"
   impactstory      : # URL
-  semantic         : # URL
   pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
