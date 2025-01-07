@@ -116,4 +116,19 @@ table, td, th, tr {
   </div>  
 </td>
 </tr>    
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/iscollege_teaser.JPG" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>Is college students’ trajectory associated with academic performance?.</h3>
+  Hyoungjoon Lim, Soohyun Kim, Kyong-Mee Chung, Kangjae Lee, <b>Taewhan Kim</b>, Joon Heo.
+  <br>
+  <em>Computers & Education</em>, 2022
+  <br>
+  <div>
+    <a href="https://www.sciencedirect.com/science/article/abs/pii/S0360131521002748">[paper]</a>
+  </div>  
+</td>
+</tr>   
 </table>
