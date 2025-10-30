@@ -15,6 +15,7 @@ My research interests span in computer vision, vision & language, generative mod
 **If you are interested in working with me, please feel free to drop me an email through taewhan7725@gmail.com.**
 
 <h2><span style="color:red; font-family:Papyrus">Research News</span></h2>
+**\[12/2024\]** [SIDA](https://arxiv.org/pdf/2507.18632), [SynC](https://arxiv.org/abs/2507.18616) are accepted by [ACMMM 2025](https://acmmm2025.org/) <br/>
 **\[12/2024\]** [ViPCap](https://arxiv.org/abs/2412.19289) is accepted by [AAAI 2025](https://aaai.org/) <br/>
 **\[09/2024\]** [IFCap](https://arxiv.org/abs/2409.18046) is accepted by [EMNLP 2024](https://2024.emnlp.org/) <br/>
 **\[03/2022\]** [Is college students’ trajectory associated with academic performance?](https://www.sciencedirect.com/science/article/abs/pii/S0360131521002748) is accepted by [Computers & Education 2022](https://www.sciencedirect.com/journal/computers-and-education) <br/>
@@ -86,6 +87,37 @@ table, td, th, tr {
 
 <h2><span>Selected Publications</span></h2>
 <table cellspacing="0" cellpadding="0">
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/sida.JPG" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>SIDA: Synthetic Image Driven Zero-shot Domain Adaptation.</h3>
+  Ye-Chan Kim, SeungJu Cha, Si-Woo Kim, <b>Taewhan Kim</b>, Dong-Jin Kim.
+  <br>
+  <em>ACMMM</em>, 2025
+  <br>
+  <div>
+    <a href="https://arxiv.org/abs/2507.18632">[paper]</a>
+  </div>  
+</td>
+</tr>  
+<tr>
+<td style="padding:0px;width:30%;vertical-align:middle">
+  <img src="../images/sync.JPG" height="100%" width="100%" style="border-style: none">
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle">  
+  <h3>SynC: Synthetic Image Caption Dataset Refinement with One-to-many Mapping for Zero-shot Image Captioning.</h3>
+  Si-Woo Kim, MinJu Jeon, Ye-Chan Kim, Soeun Lee, <b>Taewhan Kim</b>, Dong-Jin Kim.
+  <br>
+  <em>ACMMM</em>, 2025
+  <br>
+  <div>
+    <a href="https://arxiv.org/abs/2507.18616">[paper]</a>
+    <a href="https://github.com/boreng0817/SynC">[code]</a>
+  </div>  
+</td>
+</tr>    
 <tr>
 <td style="padding:0px;width:30%;vertical-align:middle">
   <img src="../images/VipCap_teaser.jpg" height="100%" width="100%" style="border-style: none">
